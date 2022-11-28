@@ -1,3 +1,3 @@
-- 👋  Hello, my name is @Tzuf Bar Or 
-- 👀  I’m interested to develop my coding skills.
-- 🌱  I’m looking to collaborate on any open source projects
+-  Hello, my name is Tzuf Bar Or.
+-  I’m looking to develop my coding skills.
+-  I’m interested to collaborate on any open source projects.
